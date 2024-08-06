@@ -4,6 +4,10 @@
 		<title>Imagens</title>	
 	</head>
 	<body>
-		<a href="https://www.google.com.br/"><img src="https://www.diariodocentrodomundo.com.br/wp-content/uploads/2021/03/corinthians_p000pmj_widexl.jpeg"></a>
+		<p>inserir imagem local: </p>
+		<img src="Rebeca.jpg"alt="imagem Rebeca Andrade">
+
+		<p>inserir imagem via link: </p>
+		<img src="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2024/07/29/1356456848-topshot-surfing-oly-paris-2024-2048x1361.jpg"alt="imagem Gabriel Medina">
 	</body>
 </html>
