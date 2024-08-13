@@ -10,4 +10,5 @@ Arquivos desenvolvidos durante as aulas de HTML📂
 * Semântica;
 * Site letras com clone;
 * Tabelas;
-* Lista Ordenada.
+* Lista Ordenada;
+* Lista Não Ordenada.
