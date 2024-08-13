@@ -13,4 +13,6 @@ Arquivos desenvolvidos durante as aulas de HTML📂
 * Lista Ordenada;
 * Lista Não Ordenada;
 * Desafio imagens e links;
-* Desafio de listas.
+* Desafio de listas;
+* Formulário;
+* Formulário com seletores.
