@@ -9,3 +9,5 @@ Arquivos desenvolvidos durante as aulas de HTML📂
 * Página de web de filme;
 * Semântica;
 * Site letras com clone.
+* Tabelas;
+* Lista Ordenada.
