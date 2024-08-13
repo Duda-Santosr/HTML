@@ -6,4 +6,6 @@ Arquivos desenvolvidos durante as aulas de HTML📂
 * Estrutura básica;
 * Exemplos de links;
 * Imagens;
-* Página de web de filme.
+* Página de web de filme;
+* Semântica;
+* Site letras com clone.
