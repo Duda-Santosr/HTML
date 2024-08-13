@@ -11,4 +11,6 @@ Arquivos desenvolvidos durante as aulas de HTML📂
 * Site letras com clone;
 * Tabelas;
 * Lista Ordenada;
-* Lista Não Ordenada.
+* Lista Não Ordenada;
+* Desafio imagens e links;
+* Desafio de listas.
