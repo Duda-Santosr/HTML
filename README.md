@@ -15,4 +15,6 @@ Arquivos desenvolvidos durante as aulas de HTML📂
 * Desafio imagens e links;
 * Desafio de listas;
 * Formulário;
-* Formulário com seletores.
+* Formulário com seletores;
+* Vídeos e áudios;
+* Exemplo de outras tags.
